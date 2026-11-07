@@ -62,6 +62,18 @@ A machine-learning-based web application that analyzes network traffic records a
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/yashmishra8869/ai-cyber-threat-detector)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://ai-cyber-threat-detector-is0r.onrender.com/)
 
+### 🎓 Smart Attendance System
+
+A smart attendance management project designed to simplify attendance tracking, improve record management, and make the attendance process more efficient.
+
+**Focus Areas:** Attendance Management, Automation, Application Development
+
+- Organized attendance recording and management.
+- Designed to simplify attendance tracking.
+- Focused on usability and efficient record handling.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/yashmishra8869/SmartAttendance)
+
 ### 🎬 Movie Recommendation Website
 Exploring the development of a movie recommendation experience.
 
