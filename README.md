@@ -73,6 +73,7 @@ A smart attendance management project designed to simplify attendance tracking, 
 - Focused on usability and efficient record handling.
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/yashmishra8869/SmartAttendance)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=blue)](https://smart-attendance-r16r.onrender.com/)
 
 ### 🎬 Movie Recommendation Website
 Exploring the development of a movie recommendation experience.
